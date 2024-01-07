@@ -1,1 +1,11 @@
 Ветка master отличается от demo 1-й строкой в файле README
+Все комментарии в commit-ах веток:
+init
+heat added
+dots
+fix readme
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+Adding hometask.txt
+Adding comments for all commits in master branch
